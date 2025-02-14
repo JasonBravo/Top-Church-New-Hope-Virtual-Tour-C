@@ -1,0 +1,260 @@
+#: locale=zh
+
+## 介面
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_zh.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_zh.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_zh.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_zh.jpg
+Image_56BD56C4_468A_62FC_41C4_1B7945A27493.url = skin/Image_56BD56C4_468A_62FC_41C4_1B7945A27493_zh.jpeg
+Image_6D3B3468_752A_70B1_41D8_4AE796D3DCDE.url = skin/Image_6D3B3468_752A_70B1_41D8_4AE796D3DCDE_zh.jpg
+Image_B5A53686_A49E_6761_41D7_BB8C47835F24.url = skin/Image_B5A53686_A49E_6761_41D7_BB8C47835F24_zh.png
+
+### 多行文字
+HTMLText_78186BDB_4CD1_BA4A_41C8_A04452AF6CEB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#990000;font-size:37px;"><B>卓越新希望教會</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#990000;font-size:37px;"><B>Top Church New Hope</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>地址</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>Address</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>台灣林口區文化二路一段380號2樓</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>2F, No. 380, Section 1, Wenhua 2nd Road, Linkou District, Taiwan</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_853E1A80_9244_4A9D_41D0_E20BB409D3DD.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#990000;font-size:23px;"><B>卓越新希望教會</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#990000;font-size:23px;"><B>Top Church New Hope</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>地址</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>Address</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;"><B>台灣林口區文化二路一段380號2樓</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;"><B>2F, No. 380, Section 1, Wenhua 2nd Road, Linkou District, Taiwan</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_1F95DE40_022E_7BF1_4170_16BB769D1510.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.370000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.6999999999999975vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.7vw;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.720000000000006vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B><I>卓越新希望行道會</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>Top New Hope Church</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>中文名稱：卓越新希望行道會</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>英文名稱：Top Church New Hope</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>分類：教會</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>宗派：中華基督教行道會聯會</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>國別區域：台灣</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>代表人：主任牧師 蕭東生</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>國碼：+886</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>電話：02-2600-9595</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>電郵：topchurchnh@gmail.com  </I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>網址：http://www.newhopetaiwan.org/</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3300000000000003vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>會址：244047 新北市林口區文化二路一段380號2樓</I></B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.2699999999999991vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.27vw;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2699999999999991vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.27vw;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.21vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.21vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.21vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7199999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.420000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.920000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.920000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.95vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:9.95vmin;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.569999999999987vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.57vmin;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.149999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.149999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.149999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:1.18vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.18vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:7.631111111111086vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.63vmin;font-family:'Oswald';"><B><I>卓越新希望行道會</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7313888888888895vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.73vmin;font-family:'Oswald';"><B>TOP CHURCH NEW HOPE.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7222222222222205vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Oswald';"><B><I>中文名稱：卓越新希望行道會</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7222222222222205vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Oswald';"><B><I>英文名稱：Top Church New Hope</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7222222222222205vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Oswald';"><B><I>分類：教會</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7222222222222205vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Oswald';"><B><I>宗派：中華基督教行道會聯會</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7222222222222205vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Oswald';"><B><I>國別區域：台灣</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7222222222222205vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Oswald';"><B><I>代表人：主任牧師 蕭東生</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7222222222222205vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Oswald';"><B><I>國碼：+886</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7222222222222205vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Oswald';"><B><I>電話：02-2600-9595</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7222222222222205vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Oswald';"><B><I>電郵：topchurchnh@gmail.com  </I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7222222222222205vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Oswald';"><B><I>網址：http://www.newhopetaiwan.org/</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.7222222222222205vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Oswald';"><B><I>會址：244047 新北市林口區文化二路一段380號2樓</I></B></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Top Church New Hope</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="topchurchnh@gmail.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:14px;font-family:'Oswald Regular';"><I>topchurchnh@gmail.com</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>TEL : 02-2600-9595</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Top Church New Hope</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="topchurchnh@gmail.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:14px;font-family:'Oswald Regular';"><I>topchurchnh@gmail.com</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>TEL : 02-2600-9595</I></SPAN></SPAN></DIV></div>
+
+### 工具提示
+Label_B93FFACE_A5BE_6CE1_41D1_42AB854FF546.toolTip = 123
+Label_56808EE5_468A_22BC_41C6_8140D3002632.toolTip = 123
+
+### 按鈕
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = YouTube連結
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = YouTube連結
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = 卓越新希望行道會
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = 卓越新希望行道會
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = 卓越新希望行道會
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = 卓越新希望行道會 FaceBook
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = 展點地址
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = 展點配置
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = 教會地址
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = 教會配置
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = 環景介紹
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = 環景介紹
+
+### 標籤
+Label_22E69DA5_06FA_261C_4191_C586EFD2DC19.text = Label
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = TOP CHURCH NEW HPOE
+Label_B93FFACE_A5BE_6CE1_41D1_42AB854FF546.text = TOP CHURCH NEW HPOE
+Label_56808EE5_468A_22BC_41C6_8140D3002632.text = 卓越新希望行道會
+Label_6071FFD2_71F4_6EA5_41CD_C44C3A0D1213_mobile.text = 卓越新希望行道會
+
+## 媒體
+
+### Audio
+audiores_41BB1ED7_73D6_FC9A_41B7_479C24DF04EE.mp3Url = media/audio_5D1C14A2_73D7_ECBA_41CC_502ECA0D07FE_zh.mp3
+audiores_4557A2C0_655E_0F2B_41D6_3AC19AC584CF.mp3Url = media/audio_7B51BF74_655E_15EA_41D7_1C6E5A0434BC_zh.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_776550B5_6FC2_C719_41D7_21BACED9BF83.url = media/panorama_48116A24_4196_2DBC_41CA_5EA6EF500B49_HS_fnlr1mvf_zh.png
+imlevel_1D4A7093_0295_A1E4_4182_7BC07F9BA815.url = media/panorama_4811C0ED_4196_FE8C_41B3_0783353515E8_HS_0r7v8exl_zh.png
+imlevel_77228268_6FC2_CB37_41A4_4C536B8889F5.url = media/panorama_482C0285_4196_1D7C_41CA_D0A22A0CA139_HS_5n6e9p4c_zh.png
+imlevel_5734347C_73B6_638E_41D1_6786BAAD4881.url = media/panorama_482C9E90_4196_2294_416D_50ACB286E1C0_HS_8wfcnbid_zh.png
+imlevel_573A9500_73B6_6D76_41DB_6855FF128D80.url = media/panorama_482CC8DF_4196_6E8C_41CF_095313383172_HS_rbxxno9s_zh.png
+imlevel_775F31B2_6FC2_C91B_41D8_B5CF5B4CC556.url = media/panorama_482D185A_4196_ED94_41CA_E1B5DFBA5D7C_HS_kzso6r8m_zh.png
+imlevel_775DD16E_6FC2_C90B_41B9_8A470FE1C40C.url = media/panorama_482D185A_4196_ED94_41CA_E1B5DFBA5D7C_HS_mtgrx4rp_zh.png
+imlevel_775B611B_6FC2_C909_41B4_92D56268A01D.url = media/panorama_482D185A_4196_ED94_41CA_E1B5DFBA5D7C_HS_qep8lgso_zh.png
+imlevel_6071CD31_7352_7D96_41CD_B79AF87B55EC.url = media/panorama_482D185A_4196_ED94_41CA_E1B5DFBA5D7C_HS_zl9ra3gw_zh.png
+imlevel_5737543A_73B6_638A_41A7_D04CB268F9E9.url = media/panorama_482D31AD_4196_1E8C_41C5_9B8DAB2C7DF9_HS_usbrhnl0_zh.png
+imlevel_573554BE_73B6_6C8A_41D0_8B04C495D2AD.url = media/panorama_482D6B76_4196_239C_4186_4F85842EB1BA_HS_4tt1rrxc_zh.png
+imlevel_1583E7A7_03C0_2440_4182_3C04B6125357.url = media/panorama_482E7D68_4196_E7B4_4166_240AC038204C_HS_7qk3z1ne_zh.png
+imlevel_4780F1BE_73D2_248A_41D8_0C31C17373BE.url = media/panorama_48369257_418A_3D9C_41C8_17677CCFFDB0_HS_nrr4wf9k_zh.png
+imlevel_32DBA8C7_73CE_64FA_41D2_9C9A32921557.url = media/panorama_4836A4CD_418A_268C_41BC_1DEAFA26F74E_HS_84sdkgq7_zh.png
+imlevel_32DC4858_73CE_6396_41B5_8FA4EE083695.url = media/panorama_4836A4CD_418A_268C_41BC_1DEAFA26F74E_HS_bb6gh16k_zh.png
+imlevel_7725E2B6_6FC2_CB1B_41D3_56B5D4C15D13.url = media/panorama_4837B442_418B_E5F4_41C6_5BC89E06D2DC_HS_wz8wzdrk_zh.png
+imlevel_7760B02A_6FC2_C70B_41CC_1046005E6FD2.url = media/panorama_4FF229F1_419A_2E94_41BF_1457B8CCD164_HS_3p7cm01b_zh.png
+imlevel_7763206E_6FC2_C70B_41C7_29E6A8F4F819.url = media/panorama_4FF229F1_419A_2E94_41BF_1457B8CCD164_HS_5e60cded_zh.png
+imlevel_1D4DE04A_0295_A164_4179_A03A4BC455FA.url = media/panorama_4FF229F1_419A_2E94_41BF_1457B8CCD164_HS_9c9p8mzq_zh.png
+imlevel_161986E2_03C0_25C0_4186_E7C75000F67A.url = media/panorama_4FF229F1_419A_2E94_41BF_1457B8CCD164_HS_bbuosr55_zh.png
+imlevel_65C79A98_7376_E496_41D8_2A32196D4B31.url = media/popup_66395BDC_7371_E48E_41DB_B106CA053279_zh_0_0.jpg
+imlevel_65C19A98_7376_E496_41D4_9566BCAC326E.url = media/popup_66395BDC_7371_E48E_41DB_B106CA053279_zh_0_1.jpg
+imlevel_65C18A98_7376_E496_41D0_8C7853B00445.url = media/popup_66395BDC_7371_E48E_41DB_B106CA053279_zh_0_2.jpg
+
+### Popup Image
+
+### Video
+videolevel_27E884A3_0432_1DE5_4174_C0433A3EBB27.posterURL = media/video_332094A9_73F2_6CB6_41D8_9C2D2EB13A1D_poster_zh.jpg
+videolevel_26EBC555_0436_1CAD_4187_C986B70ABB92.posterURL = media/video_332094A9_73F2_6CB6_41D8_9C2D2EB13A1D_poster_zh.jpg
+videolevel_27E884A3_0432_1DE5_4174_C0433A3EBB27.url = media/video_332094A9_73F2_6CB6_41D8_9C2D2EB13A1D_zh.m3u8
+videolevel_26EBC555_0436_1CAD_4187_C986B70ABB92.url = media/video_332094A9_73F2_6CB6_41D8_9C2D2EB13A1D_zh.mp4
+videolevel_27EDB37E_0432_1B5F_418B_A3531C5C7D32.posterURL = media/video_5C7FC3CB_6FDA_0D3E_41C6_1AC188E1C324_poster_zh.jpg
+videolevel_27EDB37E_0432_1B5F_418B_A3531C5C7D32.url = media/video_5C7FC3CB_6FDA_0D3E_41C6_1AC188E1C324_zh.mp4
+videolevel_27EA940E_0432_1CBF_418F_31FBBDA78B77.posterURL = media/video_6298CA0B_7352_E78A_41A8_5E6CFE87B273_poster_zh.jpg
+videolevel_27EA940E_0432_1CBF_418F_31FBBDA78B77.url = media/video_6298CA0B_7352_E78A_41A8_5E6CFE87B273_zh.mp4
+videolevel_27E0D0D3_0432_15A5_417A_EF53A65B2801.posterURL = media/video_8CC809E0_92DC_D69D_41D1_55A024545E86_poster_zh.jpg
+videolevel_27E0D0D3_0432_15A5_417A_EF53A65B2801.url = media/video_8CC809E0_92DC_D69D_41D1_55A024545E86_zh.mp4
+videolevel_27E1D15A_0432_14A7_4122_32DF03E2BBF8.posterURL = media/video_9996281C_97C7_9643_41C1_8FEB611A7FD3_poster_zh.jpg
+videolevel_27E1D15A_0432_14A7_4122_32DF03E2BBF8.url = media/video_9996281C_97C7_9643_41C1_8FEB611A7FD3_zh.mp4
+videolevel_27EEB1E1_0432_1765_418D_72D9F77A5244.posterURL = media/video_9B33AC88_97C7_8E43_41A9_7602FC0E13E1_poster_zh.jpg
+videolevel_27EEB1E1_0432_1765_418D_72D9F77A5244.url = media/video_9B33AC88_97C7_8E43_41A9_7602FC0E13E1_zh.mp4
+videolevel_27EF6267_0432_156D_4180_6C631A9051F7.posterURL = media/video_9B3CA10A_97C7_F647_41A0_9CCCB80F388D_poster_zh.jpg
+videolevel_27EF6267_0432_156D_4180_6C631A9051F7.url = media/video_9B3CA10A_97C7_F647_41A0_9CCCB80F388D_zh.mp4
+videolevel_27EC12E1_0432_1565_4189_E1A871ADF73A.posterURL = media/video_9B3DA62D_97C7_FA5D_41A8_D029A6B70917_poster_zh.jpg
+videolevel_27EC12E1_0432_1565_4189_E1A871ADF73A.url = media/video_9B3DA62D_97C7_FA5D_41A8_D029A6B70917_zh.mp4
+
+### 影片字幕
+
+### 標題
+video_5C7FC3CB_6FDA_0D3E_41C6_1AC188E1C324.label = 20231029綠世界出遊回顧
+panorama_4837B442_418B_E5F4_41C6_5BC89E06D2DC.label = 一樓門口_左
+panorama_483787C2_418B_E2F4_41C2_B96F70A45123.label = 一樓門口_正面
+panorama_48116A24_4196_2DBC_41CA_5EA6EF500B49.label = 中島_中
+panorama_482EB695_4196_229C_41C7_8DBB087F5FF0.label = 中島_右
+panorama_482E92D1_4196_6294_41BE_D2A2656C22A4.label = 中島_左
+panorama_482E3F64_4196_63BC_41CF_566FBF29FA95.label = 中島_桌上
+panorama_482FB8D7_4197_EE9C_41C4_E5BCAE78A167.label = 主堂1號走廊_1
+panorama_482E6554_4196_279C_416C_2E147E6540A4.label = 主堂1號走廊_2
+panorama_55BA0C2A_65FA_3B7E_41BA_B544A9C2AD38.label = 主堂1號門
+panorama_482D0391_4196_2294_41D0_04272956259B.label = 主堂3號走廊_1
+panorama_482D36EE_4196_628C_41CE_675FBD1C4AD0.label = 主堂3號走廊_2
+panorama_482D2A90_4196_6294_4196_79FC7F10B936.label = 主堂3號走廊_3
+panorama_482EBE64_4196_25BC_41CC_8671D8F6ECE1.label = 主堂3號走廊_4
+panorama_482EB206_4196_3D7C_41C5_6549A7D08877.label = 主堂3號門
+panorama_482D6FDF_4196_228C_41C1_35C667719283.label = 主堂二號門口
+panorama_482E543B_4196_2594_41B4_8DCF0A62B096.label = 主堂台前_中
+panorama_482E006C_4196_1D8D_41C0_A3528E7F5A07.label = 主堂台前_右
+panorama_482E2C67_4197_E5BC_41AB_C9BC49A74B0A.label = 主堂台前_左
+panorama_482DDC2C_4196_258C_4161_547B6DC78857.label = 主堂座位_正面
+panorama_4FF229F1_419A_2E94_41BF_1457B8CCD164.label = 交誼廳_中
+panorama_4811C0ED_4196_FE8C_41B3_0783353515E8.label = 交誼廳_右
+panorama_482E7D68_4196_E7B4_4166_240AC038204C.label = 交誼廳_左
+video_8CC809E0_92DC_D69D_41D1_55A024545E86.label = 兒主影片
+panorama_482B9FA9_4195_E2B4_41BE_37D96A54CBF8.label = 兒主教室_右
+panorama_4834DBA6_418A_22BC_41CE_EEDDE7DA4E95.label = 兒主教室_左
+panorama_482BB39C_4195_E28C_41CB_04EC9E0BDAE1.label = 兒主教室_門口
+panorama_482A6B56_4196_239C_41B9_C972FE9791B3.label = 兒童遊戲室_中
+panorama_4810D3AE_4196_628D_41B6_CA76493367E7.label = 兒童遊戲室_右
+panorama_48112FEF_4196_628C_41C3_5ED50DAC83E4.label = 兒童遊戲室_左
+video_332094A9_73F2_6CB6_41D8_9C2D2EB13A1D.label = 勇士們  向前行｜穿越逆齡時光｜2024-05-1勞動節男女外展活動
+panorama_48363F05_418A_237C_41C2_C02DD92E9C5D.label = 厚鋪_中
+panorama_48361E98_418A_2294_41C1_2D0E57D69DDC.label = 厚鋪_前
+panorama_48363B63_418A_23B4_41CA_16DE9F5C5AF4.label = 厚鋪_後
+panorama_482CC8DF_4196_6E8C_41CF_095313383172.label = 受洗池_前右
+panorama_482D6B76_4196_239C_4186_4F85842EB1BA.label = 受洗池_前左
+panorama_482D31AD_4196_1E8C_41C5_9B8DAB2C7DF9.label = 受洗池_後右
+panorama_482C9E90_4196_2294_416D_50ACB286E1C0.label = 受洗池_後左
+panorama_482DD4C9_4196_E6F4_41CA_162AE86A07B8.label = 受洗池_門口
+panorama_4836A4CD_418A_268C_41BC_1DEAFA26F74E.label = 同工辦公室_前
+panorama_48369257_418A_3D9C_41C8_17677CCFFDB0.label = 同工辦公室_後
+panorama_4835E8A0_418A_EEB4_4196_6DC9418EFB8C.label = 同工辦公室_門口
+video_6298CA0B_7352_E78A_41A8_5E6CFE87B273.label = 大使命
+panorama_4835DC73_418A_E594_41B5_4B2F0CFE26F3.label = 女廁_右
+panorama_48353068_418A_1DB4_41B9_1BAE46CCDB3E.label = 女廁_左
+panorama_4813F784_4196_637C_41CE_E802C661B0AC.label = 旋轉樓梯_上
+panorama_483676CF_418A_628C_41CD_1CA8A43117A6.label = 旋轉樓梯_中1
+panorama_483642F9_418A_2294_4187_DF6B5739A227.label = 旋轉樓梯_中2
+panorama_482ECD21_4196_67B4_41C4_7DFEECF30417.label = 旋轉樓梯_中3
+panorama_48369ACF_418A_628C_41CE_0C960203B341.label = 旋轉樓梯_前
+panorama_482C37B6_4195_E29C_4197_F6888CE576AE.label = 會議室_裡面
+panorama_482C3BA7_4196_22BC_41C9_D14541D4B4AB.label = 會議室_門口
+video_9B33AC88_97C7_8E43_41A9_7602FC0E13E1.label = 橘世代_會話班
+video_9B3CA10A_97C7_F647_41A0_9CCCB80F388D.label = 橘世代_精油美學
+video_9996281C_97C7_9643_41C1_8FEB611A7FD3.label = 橘世代_花藝班
+video_9B3DA62D_97C7_FA5D_41A8_D029A6B70917.label = 橘世代_飄扇舞
+panorama_482E395E_4196_2F8C_419F_4DC1B46E4687.label = 牧師辦公室
+panorama_4835246B_418A_25B4_41A5_E956B138B9C8.label = 男廁_右
+panorama_48355875_418A_2D9C_41BD_A74537BB1851.label = 男廁_左
+panorama_4811384A_4196_2DF4_41CF_45BE91E2312C.label = 親子廁所
+panorama_482D185A_4196_ED94_41CA_E1B5DFBA5D7C.label = 講堂
+panorama_48113C1A_4196_2594_41C3_CAA045C9F8AB.label = 走廊_1
+panorama_4811B464_4196_E5BC_41AE_8DBB8767B267.label = 走廊_2
+panorama_48356CA7_418A_66BC_41D0_615D707180C6.label = 走廊_3
+panorama_482C6F58_4196_2394_41C3_8AF1E272F57C.label = 辦公室通道_右
+panorama_4834B812_418A_2D94_41A4_38D82AD73FC8.label = 辦公室通道_左
+panorama_4834C05D_418A_7D8C_41C1_1128D51FDC1B.label = 電梯通道_中
+panorama_4834C41E_418A_658C_41B3_3E83ECE2C133.label = 電梯通道_左
+panorama_482CC5E5_4196_66BC_41B1_01BFC235CC9F.label = 露台_中
+panorama_482C0285_4196_1D7C_41CA_D0A22A0CA139.label = 露台_花園
+
+## 操作
+
+### URL網址
+LinkBehaviour_B0E34884_A58A_6B61_41D1_AACFDA90ECCB.source = https://www.facebook.com/NHTaiwan/?locale=zh_TW
+LinkBehaviour_B75909F1_A6EF_6475_41E0_B28AADAD5B50.source = https://www.facebook.com/NHTaiwan/?locale=zh_TW
+LinkBehaviour_2120273A_06EE_2274_4193_24931CA56663.source = https://www.youtube.com/channel/UCHHzL77KfV1yqa0Pl1Up6RQ
+LinkBehaviour_7A5F2E06_6FC3_BAFB_41C7_F22172A5787A.source = //www.youtube.com/embed/88KZTS7Q5yw?v=88KZTS7Q5yw&list=PLW75xSLmtPqqcI-2-AfHkHU5t9xo3syD2
+LinkBehaviour_52A72F56_73B2_3D9A_41D5_42686A564CB9.source = //www.youtube.com/embed/0jOVfa5skV4?si=0lIozhlfUEVjH0d7
+LinkBehaviour_7BB074E6_6FC1_CF3B_41D8_A2727180B800.source = //www.youtube.com/embed/0jOVfa5skV4?si=0lIozhlfUEVjH0d7
+LinkBehaviour_6E8F960F_7352_2F8A_41D5_207DC4A93A21.source = //www.youtube.com/embed/0jOVfa5skV4?si=0lIozhlfUEVjH0d7
+LinkBehaviour_530434AA_73B2_2C8A_41C0_F130A5E87F42.source = //www.youtube.com/embed/0jOVfa5skV4?si=0lIozhlfUEVjH0d7
+LinkBehaviour_6D453E46_7352_3FFA_41D7_BD12D5463E23.source = //www.youtube.com/embed/0jOVfa5skV4?si=0lIozhlfUEVjH0d7
+LinkBehaviour_335139A0_67DA_FD6A_41DA_D97AB9886D5B.source = //www.youtube.com/embed/85b6dBAC5r8?si=B8zcHQ8735dsPv54
+LinkBehaviour_7D93D90D_6FC1_5909_41D4_DC0680369125.source = //www.youtube.com/embed/88KZTS7Q5yw?si=91vguHb4EVUSUKsJ
+LinkBehaviour_79D1526A_6FFE_CB0B_4194_A2388A994370.source = //www.youtube.com/embed/88KZTS7Q5yw?si=91vguHb4EVUSUKsJ
+LinkBehaviour_467114A4_73F1_ECBE_41DB_F5EECDC3C01A.source = //www.youtube.com/embed/Zq4WidzXJSo
+LinkBehaviour_470B2BAD_73D6_248E_41D1_057167B15ADF.source = //www.youtube.com/embed/kZdqyVuvFd4?si=E5JEGaFTkgHDErzF
+LinkBehaviour_799ADF6B_6FC3_B909_41D4_FDFEF88F8A02.source = //www.youtube.com/embed/kbmQsk9yfJY?si=L-DJ96cH375NhSNb
+LinkBehaviour_79E0DF27_6FC1_F939_41C1_D88982E8B10D.source = //www.youtube.com/embed/kbmQsk9yfJY?si=L-DJ96cH375NhSNb
+LinkBehaviour_7C27FA34_6FC1_FB1F_41D0_206CB976B04A.source = //www.youtube.com/embed/kbmQsk9yfJY?si=L-DJ96cH375NhSNb
+LinkBehaviour_795B9EA6_6FC2_DB3B_41C4_08E7004B249A.source = //www.youtube.com/embed/uIbi_LcjIoY?si=gs7hPV3gbAMp_rYM
+LinkBehaviour_49D01501_73F7_ED76_41D2_AA4E5073941F.source = //www.youtube.com/embed/wKe-yPpcqgI
+LinkBehaviour_7AB355F2_6FC1_491B_41BE_39D1491B5CF4.source = https://youtube.com/playlist?list=PLW75xSLmtPqrJIBK4mDiuTieGZ-ivoAGq&si=4Z_LrVAZgVzFLeIr
+
+## 熱點
+
+### Text
+HotspotPanoramaOverlayTextImage_44CD786C_73F6_238E_41C7_5EC18917FF63.text = 2024 N1遇見神營會
+HotspotPanoramaOverlayTextImage_7A56BFC6_6FC3_597B_41DB_9531E2F2DFA7.text = 2024 兩週年回顧 | 持續朝大使命前進!
+HotspotPanoramaOverlayTextImage_7E9F397B_6FC3_D909_41D4_00E26174D3D6.text = 2024 兩週年回顧 | 持續朝大使命前進!
+HotspotPanoramaOverlayTextImage_1B752782_029C_6FE4_4165_1D0DCCA5B9EF.text = 2024 兩週年回顧 | 持續朝大使命前進!
+HotspotPanoramaOverlayTextImage_1A9968C7_029D_E16C_417D_C6C156B020C4.text = 2024 兩週年回顧 | 持續朝大使命前進!
+HotspotPanoramaOverlayTextImage_7A191EBC_6FC3_7B0F_41D4_D0068451FAC0.text = 2024中秋節烤肉趴
+HotspotPanoramaOverlayTextImage_19D7CD0F_0294_A0FC_415A_3C74C61DBDA9.text = 2024中秋節烤肉趴
+HotspotPanoramaOverlayTextImage_7A17BCC3_6FC2_FF79_41CF_47EF059F351C.text = 2024中秋節烤肉趴
+HotspotPanoramaOverlayTextImage_7C279A35_6FC1_FB19_41D3_EBDE401D7BF1.text = 2024感恩節餐會暨禱告會
+HotspotPanoramaOverlayTextImage_7A240097_6FFF_4719_41B4_13874B371D63.text = 2024感恩節餐會暨禱告會
+HotspotPanoramaOverlayTextImage_40AC902B_73D6_E38A_41DA_3788F294D08B.text = 2024烈火特會回顧 | 卓越新希望行道會
+HotspotPanoramaOverlayTextImage_7D4BEDC5_6FC1_D979_41DB_266ACC3ACEFB.text = Frieda牧師-醫治釋放特會回顧
+HotspotPanoramaOverlayTextImage_7A05A61C_6FC6_CB0F_41C7_B6673943A08C.text = 卓越新希望行道會 主日訊息
+HotspotPanoramaOverlayTextImage_4618B21F_73F2_678A_41C9_6DBBC35642DA.text = 卓越新希望行道會在林口成立建堂的過程
+HotspotPanoramaOverlayTextImage_7BA40DCF_6FC3_D909_41D3_7FC9423E1522.text = 教會活動回顧影片
+HotspotPanoramaOverlayTextImage_6E954A07_7351_E77A_41C5_8D1F6AD16034.text = 第七屆受洗回顧
+HotspotPanoramaOverlayTextImage_52A80E24_73B2_1FBE_41CE_71D8C9F8A759.text = 第七屆受洗回顧
+HotspotPanoramaOverlayTextImage_534D7DFA_73B2_1C8A_41CA_431B1E58E274.text = 第七屆受洗回顧
+HotspotPanoramaOverlayTextImage_7B084D1D_6FC1_5909_41B0_2F5B5C26387F.text = 第七屆受洗回顧
+HotspotPanoramaOverlayTextImage_6D924A0E_7352_E78A_41DB_B51A2E6121FA.text = 第七屆受洗回顧
+
+## 線上學習
+
+### 分數名稱
+score1.label = 得分 1
+
+### 問題畫面
+quizQuestion_7ABF450E_74FA_9071_41D8_1AFCF9D98FFB.ok = OK
+
+### 報告畫面
+quizScore_7AA1750E_74FA_9071_41CD_7401E230BA1D.title = - SCORE -
+quizScore_7AA1750E_74FA_9071_41CD_7401E230BA1D.completion = Completed
+quizScore_7AA1750E_74FA_9071_41CD_7401E230BA1D.questionsCorrect = Correct
+quizScore_7AA1750E_74FA_9071_41CD_7401E230BA1D.downloadCSV = Download .csv
+quizScore_7AA1750E_74FA_9071_41CD_7401E230BA1D.questionsIncorrect = Incorrect
+quizScore_7AA1750E_74FA_9071_41CD_7401E230BA1D.items = Items Found
+quizScore_7AA1750E_74FA_9071_41CD_7401E230BA1D.questions = Questions
+quizScore_7AA1750E_74FA_9071_41CD_7401E230BA1D.repeat = Repeat
+quizScore_7AA1750E_74FA_9071_41CD_7401E230BA1D.submitToLMS = Submit
+quizScore_7AA1750E_74FA_9071_41CD_7401E230BA1D.elapsedTime = Time
+
+### 超時畫面
+quizTimeout_7ABEA50D_74FA_9073_41D2_CECDF31D8877.title = - TIMEOUT -
+quizTimeout_7ABEA50D_74FA_9073_41D2_CECDF31D8877.repeat = Repeat
+quizTimeout_7ABEA50D_74FA_9073_41D2_CECDF31D8877.score = View Score
+
+## 虛擬導覽
+
+### 標題
+tour.name = Top Church New Hope-20250214
+
+### 說明
